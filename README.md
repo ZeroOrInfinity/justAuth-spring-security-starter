@@ -7,6 +7,8 @@
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-5.3.5-green.svg)
 ![license](https://img.shields.io/badge/license-MIT-yellow.svg)
 
+## 加入 JustAuth 大家庭, 请移步 https://github.com/justauth/justauth-spring-boot-security-starter 
+
 ## 一、`特性`
 [Spring security 集成 JustAuth 实现第三方授权登录](https://github.com/ZeroOrInfinity/justAuth-spring-security-starter): 此项目从 **用户管理脚手架**(UMS):https://github.com/ZeroOrInfinity/UMS | https://gitee
 .com/pcore/UMS) 项目中分离.
